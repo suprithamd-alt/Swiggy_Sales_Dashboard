@@ -19,7 +19,9 @@ Monthly sales stayed remarkably flat across the eight months of data, ranging na
 
 💡 **Recommendation:** Since demand looks stable rather than seasonal, use month-over-month comparisons mainly to catch anomalies (a sudden spike or dip) rather than to track growth — growth would need to be measured against a longer time window than 8 months.
 
-![Monthly Sales Trend](q1_monthly_trend.png)
+
+<img width="704" height="271" alt="q1_monthly_trend" src="https://github.com/user-attachments/assets/ec57e2fa-56d0-4e0f-86a0-0651b5cb7cf4" />
+
 
 ### 2. Do customers actually prefer Veg or Non-Veg food?
 Veg orders generated ₹34.18M (64%) of total revenue, compared to ₹18.83M (36%) for Non-Veg — nearly double.
