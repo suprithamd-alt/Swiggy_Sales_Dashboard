@@ -1,4 +1,4 @@
-# Swiggy Sales Analysis Dashboard (Jan–Aug 2025)
+# Swiggy Sales Analysis Dashboard
 A look at ~197K Swiggy food delivery orders, built in Excel using Pivot Tables, slicers, and a KPI-driven dashboard. The goal was to dig into sales trends over time, see how food preferences split, and find out which states and cities actually drive the revenue.
 
 ![Dashboard Preview](swiggy_dashboard.png)
@@ -37,8 +37,6 @@ Karnataka leads by a wide margin at ₹5.46M — more than 75% higher than the n
 
 💡 **Recommendation:** Don't read this as "Karnataka is a strong statewide market" — it's really "Bengaluru is a strong single-city market." Any state-level rollout or resourcing decision should look at the city-level breakdown first, since a state map alone can hide this kind of concentration.
 
-
-<img width="563" height="599" alt="q3_state_map" src="https://github.com/user-attachments/assets/47e9879e-639b-4dee-90e2-94cb6ac2b0cb" />
 
 
 ### 4. Which days of the week actually drive the most orders?
