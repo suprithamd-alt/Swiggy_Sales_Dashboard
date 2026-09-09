@@ -1,7 +1,7 @@
 # Swiggy Sales Analysis Dashboard (Jan–Aug 2025)
 A look at ~197K Swiggy food delivery orders, built in Excel using Pivot Tables, slicers, and a KPI-driven dashboard. The goal was to dig into sales trends over time, see how food preferences split, and find out which states and cities actually drive the revenue.
 
-![swiggy_dashboard Preview](swiggy_dashboard_preview.png)
+![Dashboard Preview](swiggy_dashboard.png)
 
 ⚠️ **Note:** The dataset only covers January–August, so Q3 only contains two months (Jul–Aug) instead of three. The drop you see in Q3 isn't a real decline — it's an incomplete quarter.
 
@@ -46,7 +46,7 @@ Saturday is the strongest day (₹7.78M), followed by Sunday (₹7.64M) and Thur
 
 Built a single-page dashboard so everything's visible at a glance — monthly and weekly sales trends, a Veg/Non-Veg breakdown, a state-by-state map, daily sales, quarterly performance, and top cities — with slicers to filter by Month, Category, or Restaurant Name. KPI cards up top (Total Sales, Average Rating, Avg Order Value, Rating Count, Total Orders) update automatically as you filter.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](swiggy_dashboard.png)
 
 ## 🛠️ How the Extra Columns Were Built
 
