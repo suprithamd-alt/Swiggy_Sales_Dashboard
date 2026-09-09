@@ -29,7 +29,9 @@ Veg orders generated ₹34.18M (64%) of total revenue, compared to ₹18.83M (36
 💡 **Recommendation:** Given the strong Veg skew, prioritize Veg menu expansion and inventory availability over Non-Veg. It would also be worth checking whether this 64/36 split holds consistently across all states, or whether it's driven by a few large Veg-heavy regions.
 
 
-<img width="704" height="271" alt="q1_monthly_trend" src="https://github.com/user-attachments/assets/f31ac1fe-3558-44f5-9a16-090d713cf675" />
+
+<img width="314" height="278" alt="q2_food_type" src="https://github.com/user-attachments/assets/1725bc71-931d-4fc6-b148-0d2786f5fc59" />
+
 
 
 ### 3. Which states and cities are actually driving the revenue?
