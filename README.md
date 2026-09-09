@@ -1,4 +1,4 @@
-# Swiggy Sales Analysis Dashboard
+# Swiggy Sales Analysis Dashboard (Jan–Aug 2025)
 A look at ~197K Swiggy food delivery orders, built in Excel using Pivot Tables, slicers, and a KPI-driven dashboard. The goal was to dig into sales trends over time, see how food preferences split, and find out which states and cities actually drive the revenue.
 
 
