@@ -19,28 +19,36 @@ Monthly sales stayed remarkably flat across the eight months of data, ranging na
 
 💡 **Recommendation:** Since demand looks stable rather than seasonal, use month-over-month comparisons mainly to catch anomalies (a sudden spike or dip) rather than to track growth — growth would need to be measured against a longer time window than 8 months.
 
-![Monthly Sales Trend](q1_monthly_trend.png)
+
+<img width="704" height="271" alt="q1_monthly_trend" src="https://github.com/user-attachments/assets/ad08abff-f3b9-40bd-9220-7076b822cfbf" />
+
 
 ### 2. Do customers actually prefer Veg or Non-Veg food?
 Veg orders generated ₹34.18M (64%) of total revenue, compared to ₹18.83M (36%) for Non-Veg — nearly double.
 
 💡 **Recommendation:** Given the strong Veg skew, prioritize Veg menu expansion and inventory availability over Non-Veg. It would also be worth checking whether this 64/36 split holds consistently across all states, or whether it's driven by a few large Veg-heavy regions.
 
-![Sales By Food Type](q2_food_type.png)
+
+<img width="314" height="278" alt="q2_food_type" src="https://github.com/user-attachments/assets/019d935a-1778-4175-80a5-be3774f082e6" />
+
 
 ### 3. Which states and cities are actually driving the revenue?
 Karnataka leads by a wide margin at ₹5.46M — more than 75% higher than the next closest state, Uttar Pradesh (₹3.12M). Cross-checking the city-level breakdown shows why: Bengaluru alone accounts for ₹5.46M, matching Karnataka's entire state total almost exactly.
 
 💡 **Recommendation:** Don't read this as "Karnataka is a strong statewide market" — it's really "Bengaluru is a strong single-city market." Any state-level rollout or resourcing decision should look at the city-level breakdown first, since a state map alone can hide this kind of concentration.
 
-![Sales By State](q3_state_map.png)
+
+<img width="563" height="599" alt="q3_state_map" src="https://github.com/user-attachments/assets/47e9879e-639b-4dee-90e2-94cb6ac2b0cb" />
+
 
 ### 4. Which days of the week actually drive the most orders?
 Saturday is the strongest day (₹7.78M), followed by Sunday (₹7.64M) and Thursday (₹7.66M). Tuesday is the weakest (₹7.36M) — though the spread between best and worst day is only about 5.7%, so demand is fairly even across the week rather than being weekend-only.
 
 💡 **Recommendation:** Since the weekday/weekend gap is small, staffing and promotions probably don't need to swing dramatically by day — the bigger lever here is likely food type or category, not day of week.
 
-![Daily Sales Trend](q4_daily_trend.png)
+
+<img width="697" height="314" alt="q4_daily_trend" src="https://github.com/user-attachments/assets/de8526d7-d7b3-48bf-a0c4-5e9d6c596065" />
+
 
 ## 🖥️ The Dashboard
 
