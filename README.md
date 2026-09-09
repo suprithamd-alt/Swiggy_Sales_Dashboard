@@ -28,21 +28,27 @@ Veg orders generated ₹34.18M (64%) of total revenue, compared to ₹18.83M (36
 
 💡 **Recommendation:** Given the strong Veg skew, prioritize Veg menu expansion and inventory availability over Non-Veg. It would also be worth checking whether this 64/36 split holds consistently across all states, or whether it's driven by a few large Veg-heavy regions.
 
-![Sales By Food Type](q2_food_type.png)
+
+<img width="704" height="271" alt="q1_monthly_trend" src="https://github.com/user-attachments/assets/f31ac1fe-3558-44f5-9a16-090d713cf675" />
+
 
 ### 3. Which states and cities are actually driving the revenue?
 Karnataka leads by a wide margin at ₹5.46M — more than 75% higher than the next closest state, Uttar Pradesh (₹3.12M). Cross-checking the city-level breakdown shows why: Bengaluru alone accounts for ₹5.46M, matching Karnataka's entire state total almost exactly.
 
 💡 **Recommendation:** Don't read this as "Karnataka is a strong statewide market" — it's really "Bengaluru is a strong single-city market." Any state-level rollout or resourcing decision should look at the city-level breakdown first, since a state map alone can hide this kind of concentration.
 
-![Sales By State](q3_state_map.png)
+
+<img width="563" height="599" alt="q3_state_map" src="https://github.com/user-attachments/assets/c8d86b0c-7cbc-451a-8cf0-0481485c8435" />
+
 
 ### 4. Which days of the week actually drive the most orders?
 Saturday is the strongest day (₹7.78M), followed by Sunday (₹7.64M) and Thursday (₹7.66M). Tuesday is the weakest (₹7.36M) — though the spread between best and worst day is only about 5.7%, so demand is fairly even across the week rather than being weekend-only.
 
 💡 **Recommendation:** Since the weekday/weekend gap is small, staffing and promotions probably don't need to swing dramatically by day — the bigger lever here is likely food type or category, not day of week.
 
-![Daily Sales Trend](q4_daily_trend.png)
+
+<img width="697" height="314" alt="q4_daily_trend" src="https://github.com/user-attachments/assets/526102a1-b5e7-4c4d-a557-e79e4c63a37c" />
+
 
 ## 🖥️ The Dashboard
 
